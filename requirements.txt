@@ -1,0 +1,8 @@
+ipywidgets==7.6.5
+matplotlib==3.4.3
+pandas==1.3.3
+requests==2.26.0
+bs4==0.0.1
+numpy==1.21.2
+ipywidgets==7.6.5
+widgetsnbextension==3.5.2
